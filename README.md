@@ -1,7 +1,7 @@
 # Fourier-DL-ComplexNo-Ensemble
 Folders:
 
-  File - PPT
+  files - PPT
 
   codes - Python code
   
